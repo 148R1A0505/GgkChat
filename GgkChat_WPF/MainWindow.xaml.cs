@@ -25,5 +25,12 @@ namespace GgkChat_WPF
             InitializeComponent();
 
         }
+
+        private void SignupButton_Click(object sender, RoutedEventArgs e)
+        {
+            var signupForm = new Signup();
+            signupForm.Show();
+
+        }
     }
 }
