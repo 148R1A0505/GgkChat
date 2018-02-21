@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 namespace GgkChat_WPF
 {
     /// <summary>
-    /// Interaction logic for Register.xaml
+    /// Interaction logic for Signup.xaml
     /// </summary>
     public partial class Signup : Window
     {
