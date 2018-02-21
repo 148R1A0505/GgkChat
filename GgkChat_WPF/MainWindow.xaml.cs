@@ -23,6 +23,7 @@ namespace GgkChat_WPF
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
