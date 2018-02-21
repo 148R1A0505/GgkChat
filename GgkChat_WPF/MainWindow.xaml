@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GgkChat_WPF"
         mc:Ignorable="d"
-        Title="MainWindow">
+        Title="Home" Width="530" Height="330">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="137*"/>
