@@ -17,9 +17,9 @@ namespace GgkChat_WPF
     /// <summary>
     /// Interaction logic for Register.xaml
     /// </summary>
-    public partial class Register : Window
+    public partial class Signup : Window
     {
-        public Register()
+        public Signup()
         {
             InitializeComponent();
         }
